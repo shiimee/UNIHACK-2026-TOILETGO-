@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-bubble: "Fredoka", sans-serif;
+}
+
+@layer utilities {
+  .font-bubble {
+    font-family: var(--font-bubble);
+  }
+}

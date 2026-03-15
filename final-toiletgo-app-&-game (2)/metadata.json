@@ -1,0 +1,7 @@
+{
+  "name": "Final ToiletGo App \u0026 Game",
+  "description": "Find the nearest toilet, share reviews, and play the ToiletGO mini-game!",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
