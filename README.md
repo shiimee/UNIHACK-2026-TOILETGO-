@@ -1,5 +1,5 @@
 # UNIHACK-2026-TOILETGO
-<img src="droplet.svg" height="100" width="100">
+<img src="droplet.svg">
 The best toilet app in Australia.
 
 #INSTALL INSTRUCTIONS
